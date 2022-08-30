@@ -1,2 +1,0 @@
-# TwitterClone
-Twitter Clone
